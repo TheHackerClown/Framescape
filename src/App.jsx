@@ -8,7 +8,7 @@ import MovingPicture from './components/MovingPicture';
 function App() {
   return (<>
   <Header/> 
-  <br /><br /><br /><br />
+  <br /><br /><br /><br /><br />
   <MovingPicture/> 
   <div className='row'>
     <BlogList/> <div className='seperator'></div> <ExtraInfo/>
