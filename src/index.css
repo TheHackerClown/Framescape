@@ -1,0 +1,18 @@
+body {
+  background-color: #404040;
+  
+  height: 99.8vh;
+  overflow-x: hidden;
+  margin : 0;
+}
+
+.center {display: flex;
+  align-items: center;
+  justify-content: center;}
+
+.custom_font {
+    font-family: "Snowburst One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  

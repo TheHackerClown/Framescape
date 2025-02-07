@@ -1,0 +1,91 @@
+.seperator {
+  background-color: #ffffff;
+  width: 0.3%;
+  height: 80dvh;
+  margin: 1% 2%;
+  position: sticky;
+}
+
+.header {
+  height: 78px;
+  position: fixed;
+  width: 99%;
+  margin: 0.5% 0.5%;
+  border-radius: 34em;
+  background-color:#575757;
+  backdrop-filter: blur(13px);
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.left {
+  margin-left: 10px;
+}
+.logo {
+  background-color: #d9d9d9;
+  width: 64px;
+  height: 64px;
+  border-radius: 30px;
+  margin: 0.3% 0.5%;
+}
+
+.navtext {
+  color: white;
+  margin: auto 0.5%;
+}
+
+.searchicon {
+  width: 32px;
+  height: 32px;
+  margin: auto 1%;
+}
+
+.searchinput {
+  height: 2em;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  font-size: xx-large;
+  margin: auto 2%;
+  width: 40em;
+}
+.searchbar {
+  margin: auto 9%;
+  background-color: #d9d9d9;
+  border-radius: 35px;
+  scale: 0.7;
+}
+.bars {
+  margin: auto auto;
+  width: 64px;
+  height: 64px;
+  margin-left: 12%;
+}
+
+.movingpicture {
+  background-color: #757575;
+  margin: 1% 1%;
+  height: 30em;
+  border-radius: 35px;
+}
+.bloglist {
+  width: 70%;
+  background-color: #757575;
+  margin-left: 1%;
+  border-radius: 35px;
+  height: 1000px;
+  margin-bottom: 5%;
+}
+.extrainfo {
+  width: 23dvw;
+  height: 48dvh;
+  background-color: #757575;
+  border-radius: 50px;
+}
